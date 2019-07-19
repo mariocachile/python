@@ -9,7 +9,7 @@ for x in range(2,5):
 
 
 #y las matrices?
-
+#no tengo idea
 
 n=0
 sum=0
