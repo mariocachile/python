@@ -22,3 +22,12 @@ while (count < 3):
     print("Hello Geek")
 
 print("unos")
+
+n=0
+sum=0
+max= 100000
+for n in range(1, max):
+    # calculating sum
+    sum = sum + 1/n
+    
+print("suma de los ", max, "términos= ", sum)
