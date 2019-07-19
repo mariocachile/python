@@ -1,16 +1,10 @@
+import numpy as np
 
 #aca voy a probarcosas de matrices
-a = 3 
-b= 2
-c= 25
-d=a+c+b
+A = [[1, 4, 5], 
+    [-5, 8, 9]]
+print(A[0][1])
 
-for x in range(2,5): 
-    print (x)
-
-
-
-
-
+a = np.array([[1, 2], [3, 4]]) 
         
 
